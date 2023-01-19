@@ -6,7 +6,10 @@ public class Triangulo : Figura
 
 	public void dibujar()
 	{
-		Console.WriteLine("Triangulo");
+		Console.WriteLine("   *");
+		Console.WriteLine("  * *");
+		Console.WriteLine(" *   *");
+		Console.WriteLine("*******");
 	}
 	
 }

@@ -6,7 +6,13 @@ class Program
     {
         FachadaForma dibujaFiguras= new FachadaForma();
         dibujaFiguras.dibujarTriangulo();
+        
+
+
         dibujaFiguras.dibujarCirculo();
+
+
+
         dibujaFiguras.dibujarRectangulo();
     }
 
